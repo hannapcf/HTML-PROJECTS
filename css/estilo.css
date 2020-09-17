@@ -1,0 +1,79 @@
+.div-1{
+    background-color: #ebf8ff;
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+
+.div-2{
+    background-color: #ebf8ff;
+    width: 70%;
+    height: 10%;
+    float: left;
+}
+
+.div-3{
+    background-color:  #ebf8ff;
+    width: 70%;
+    height: 90%;
+    float: left;
+}
+
+.campo-form{
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-right: 20px;
+    border: solid 1px #cccccc;
+    border-radius: 2px;
+    font-family: 'Arial';
+}
+
+.campo-form-vazio{
+    border: solid 1px #FA5858;
+    color: #FA5858;
+    text-align: center;
+}
+
+.botao-form tr:hover{
+    background-color: #04B486;
+    text-align: center;
+}
+
+.titulo{
+    background-color:#ebf8ff;
+    color: #028663;
+    text-align: center;
+}
+
+.tabela-form tr td{
+    padding-top: 3px;
+}
+
+.botao-form{
+    background-color: #088A68;
+    color: white;
+    font-family: 'Arial';
+    width: 100px;
+    height: 40px;
+    border: solid 1px #088A68;
+    border-radius: 2px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    cursor: pointer;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+.div-tabela{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 30%;
+    top: 20;
+}
