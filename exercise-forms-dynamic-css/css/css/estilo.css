@@ -54,20 +54,16 @@
     background-color: #088A68;
     color: white;
     font-family: 'Arial';
-    width: 100px;
+    width: 200px;
     height: 40px;
     border: solid 1px #088A68;
     border-radius: 2px;
-    padding-top: 20px;
-    padding-bottom: 40px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding: 20px 50px 40px 50px;
     cursor: pointer;
     margin-top: 20px;
     display: flex;
     justify-content: center;
 }
-
 
 .div-tabela{
     text-align: center;
