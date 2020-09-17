@@ -38,7 +38,6 @@
 
 .botao-form tr:hover{
     background-color: #04B486;
-    text-align: center;
 }
 
 .titulo{
@@ -65,7 +64,8 @@
     padding-right: 100px;
     cursor: pointer;
     margin-top: 20px;
-    text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 
